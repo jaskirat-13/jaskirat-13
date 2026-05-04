@@ -3,7 +3,7 @@
 # Hey there, I'm Jaskirat Singh 👋
 ### *Building things that matter — one commit at a time.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+MERN+Stack;DevOps+Enthusiast+%7C+Docker+%26+AWS;Building+Scalable%2C+Real-World+Systems;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+MERN+Stack;DevOps+Enthusiast+%7C+Docker+%26+AWS;Building+Scalable%2C+Real-World+Systems;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
