@@ -110,6 +110,28 @@ A platform that aggregates real-time disaster data from multiple public APIs, no
 
 ---
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaskirat-13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskirat-13&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaskirat-13&theme=tokyonight" />
+</p>
+
+
+
+---
+
+
+
+
+
+
+
 ## 🏆 Achievements
 
 <div align="center">
